@@ -1,3 +1,4 @@
 test contibute
 
 auto merge 
+auto merge -2 
